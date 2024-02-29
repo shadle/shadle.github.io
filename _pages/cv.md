@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Public Policy Studies, Duke University, 1998
+* M.S.P.H. in Health Policy and Administration, The University of North Carolina at Chapel Hill, 2003
+* doctoral coursework and research (A.B.D.), Health Policy and Management, The University of North Carolina at Chapel Hill
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Work experience
+# ======
+# * Summer 2015: Research Assistant
+#   * Github University
+#   * Duties included: Tagging issues
+#   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# * Fall 2015: Research Assistant
+#   * Github University
+#   * Duties included: Merging pull requests
+#   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SAS
+* Stata
+* R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#   <ul>{% for post in site.publications %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+# Talks
+# ======
+#   <ul>{% for post in site.talks %}
+#     {% include archive-single-talk-cv.html %}
+#   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Statistics for Health Policy
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* The Carpentries, instructor (University of Wisconsin-Madison)
